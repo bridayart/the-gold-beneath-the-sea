@@ -621,7 +621,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: CONTINUE
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -685,7 +685,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &159606089
@@ -756,7 +756,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Give Up
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -820,7 +820,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &165124762
@@ -1149,8 +1149,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0:00
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
-  m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
+  m_sharedMaterial: {fileID: 2439239940878608252, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3137,7 +3137,7 @@ MonoBehaviour:
   m_text: "YOU FOUND ALL THE SEALS! \n\nDRAG AND DROP THEM IN THE CORRECT ORDER ON
     THE CHEST TO ESCAPE!"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3201,7 +3201,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1654427222
@@ -3638,7 +3638,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: PLAY AGAIN?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3702,7 +3702,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1764865206
@@ -3858,7 +3858,7 @@ MonoBehaviour:
   m_text: "You were unable to find all the seals to unlock the chest. \n\nYou drowned
     in the cave before you could claim the treasure from the gold beneath the sea."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3922,7 +3922,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1933236252

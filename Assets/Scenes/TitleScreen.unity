@@ -288,7 +288,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Return
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -352,7 +352,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &41843307
@@ -507,7 +507,7 @@ MonoBehaviour:
     grab them by clicking on them! Then unlock the chest with the seals and grab
     the treasure before the water completely fills the room!"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -571,7 +571,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &133905814
@@ -644,7 +644,7 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -708,7 +708,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &271164727
@@ -987,7 +987,7 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1051,7 +1051,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &446704637
@@ -1270,7 +1270,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Continue
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1334,7 +1334,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &557292012
@@ -1777,8 +1777,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Start
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
-  m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
+  m_sharedMaterial: {fileID: 2439239940878608252, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2284,7 +2284,7 @@ MonoBehaviour:
 
     https://bridayart.com/'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2348,7 +2348,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1103997971
@@ -3008,7 +3008,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Return
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3072,7 +3072,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1542850920
@@ -3589,8 +3589,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "The Gold \nBeneath the Sea"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
-  m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
+  m_sharedMaterial: {fileID: 2439239940878608252, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3724,8 +3724,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: answer key
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
-  m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
+  m_sharedMaterial: {fileID: 2439239940878608252, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3964,8 +3964,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Credits
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
-  m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
+  m_sharedMaterial: {fileID: 2439239940878608252, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

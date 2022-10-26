@@ -705,8 +705,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'HINT: Puc Lluks Drows Nioc'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
-  m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
+  m_sharedMaterial: {fileID: 2439239940878608252, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -795,7 +795,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  - {fileID: 2439239940878608252, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1016,7 +1016,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Play Again?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1080,7 +1080,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &614362825
@@ -2233,7 +2233,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Play Again?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2297,7 +2297,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1300201589
@@ -2665,7 +2665,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Give Up
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2729,7 +2729,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1659981590
@@ -3786,7 +3786,7 @@ MonoBehaviour:
   m_text: "You found all seals and unlocked the chest! \n\nYou escape with the riches
     from the gold beneath the sea!"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3850,7 +3850,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1415699598185445514
@@ -4153,7 +4153,7 @@ MonoBehaviour:
   m_text: "You were unable to match all the seals to unlock the chest. \n\nYou drowned
     in the cave before you could claim the treasure from the gold beneath the sea."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4217,7 +4217,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!224 &1415699598720860780
@@ -4472,8 +4472,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0:00
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
-  m_sharedMaterial: {fileID: 3664262506293435784, guid: 512e5e432ed3bfd47b9966fb453cf378, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
+  m_sharedMaterial: {fileID: 2439239940878608252, guid: ac3b375adfafa7840b9ff32a719e0fa4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
